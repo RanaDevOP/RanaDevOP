@@ -1,15 +1,15 @@
 <h1 align="center">I am RanaDevOP, Currently learning Python programming.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranadevop&label=Profile%20views&color=0e75b6&style=flat" alt="ranadevop" /> </p>
 
-- ðŸ‘¨â€ðŸ’»Â Iâ€™m currently working on Python, Javascript, Css, Html, Php [.](.)
+- 🖥 im currently working on Python, Javascript, Css, Html, Php [.](.)
 
-- â¤Â Iâ€™m looking to collaborate with other content creators [.](.)
+- ❤ im looking to collaborate with other content creators [.](.)
 
-- ðŸ¥…Â 2021 Goals: Contribute more to Open Source projects [.](.)
+- 🥅 2021 Goals: Contribute more to Open Source projects [.](.)
 
-- ðŸŒÂ Location: **Asia/IndiaÂ ðŸ‡®ðŸ‡³**
+- 🌍 Location: **Asia/India**🇮🇳
 
-- ðŸ’¬Â Languages: **Hindi, English**
+- 💬 Languages: **Hindi, English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
